@@ -13,7 +13,7 @@
 - all text is unicode
 
 ## Data Structures
-- list: sequence in square brackets, values separated by commas. This is mutable
+- list: sequence, ordered collection in square brackets, values separated by commas. This is mutable. Is iterable
 - tuple: sequence in round brackets, values separated by commas. This is immutable
 - dictionary: sequence of key-value pairs in curly brackets
 - set: unordered list of unique values, in curly brackets

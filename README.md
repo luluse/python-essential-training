@@ -17,3 +17,13 @@
 - tuple: sequence in round brackets, values separated by commas. This is immutable
 - dictionary: sequence of key-value pairs in curly brackets
 - set: unordered list of unique values, in curly brackets
+
+## String methods
+- lower()
+- upper()
+- capitalize()
+- title()
+- swapcase()
+- casefold()
+
+string is immutable, so when using a method on a string, the returned string is a different, new object.
